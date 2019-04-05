@@ -1,4 +1,6 @@
-# Bot Builder Azure
+# Custom Bot Builder Azure 
+
+(forked from botbuilder-js and edited)
 
 Azure extensions for Microsoft BotBuilder.
 
